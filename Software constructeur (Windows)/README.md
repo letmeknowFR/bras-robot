@@ -7,6 +7,6 @@ Vous trouvez un logiciel :
   - Pour piloter votre/vos servo(s) => Bus Servo Terminal
 
 <p align="center">
-![Screenshot](Media/LewanSoul%20LX-16A.jpg)
+(Media/LewanSoul%20LX-16A.jpg)
 </p>
 
