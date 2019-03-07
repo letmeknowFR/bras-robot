@@ -1,4 +1,4 @@
-﻿Driver Python Lewansoul LX-16A
+﻿Driver Python pour Lewansoul LX-16A
 ==============================
 Librairie pour piloter le(s) servo(s) moteur(s) avec la carte Lewansoul LX-16A via Python.
 
