@@ -1,15 +1,5 @@
-Driver pour piloter des servos avec la carte LewanSoul LX-16A
+Logiciel constructeur pour la carte LewanSoul LX-16A
 =============================================================
 
-LewanSoul LX-16A est un servo puissant bien que leur utilisation nécessite de mettre en œuvre un protocole série personnalisé que vous devrez configurer avant toute utilisation (définir des identifiants uniques pour tous les servos, configurer les limites, etc.).
-Le constructeur fournit un outil pour cela, mais malheureseument, il ne fonctionne que sous Windows.
-
-Ce projet vise à combler les lacunes des utilisateurs autres que Windows. 
-Il consiste en une bibliothèque qui est implémenté en une interface pour communiquer avec les servos en utilisant leur protocole.
-
-Cette carte peut être piloté par :
-	
-	- Mblock
-	- Python
-	- Logiciel constructeur (Windows)
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
