@@ -1,5 +1,9 @@
-Driver pour piloter des servos avec la carte LewanSoul LX-16A
-=============================================================
+Logiciel constructeur pour la carte LewanSoul LX-16A
+===============================================
 
-![alt text](https://github.com/letmeknowFR/bras-robot/tree/master/Software%20constructeur%20(Windows)/Media/LewanSoul%20LX-16A.jpg)
+Vous trouvez un logiciel
+
+  - Pour attribuer un numéro d'ID pour votre/vos servo(s) => Lobot Bus Servo Control
+  - Pour piloter votre/vos servo(s) => Bus Servo Terminal
+
 ![Screenshot](Media/LewanSoul%20LX-16A.jpg)
