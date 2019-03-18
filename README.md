@@ -9,6 +9,7 @@ Il consiste en une bibliothèque qui est implémenté en une interface pour comm
 
 Cette carte peut être piloté par :
 
+	- Arduino
 	- Mblock
 	- Python
 	- Logiciel constructeur (Windows)
